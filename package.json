@@ -1,0 +1,8 @@
+{
+  "name": "@askblocks/news",
+  "version": "0.1.0",
+  "description": "News module for Askblocks widgets",
+  "main": "index.js",
+  "author": "sxian1232",
+  "license": "MIT"
+}
